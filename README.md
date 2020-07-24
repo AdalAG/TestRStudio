@@ -1,2 +1,2 @@
-# Test_RStudio
+# TestRStudio
 Testing integration with RStudio
